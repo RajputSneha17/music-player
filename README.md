@@ -1,3 +1,3 @@
 # music-player
 
-This is a basic music player using html css javascript...
+This is a simple music player created using HTML, CSS, and JavaScript... 🎵💕
